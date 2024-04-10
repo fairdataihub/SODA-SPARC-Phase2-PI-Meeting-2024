@@ -12,7 +12,7 @@ This repository contains the poster for the SODA presentation at the SPARC Phase
 
 ## Schedule
 
-| Type            | Date & Time             | Authors                          | Session / Location                                              | Details |
+| Type            | Date & Time             | Authors                          | Location                                              | Details |
 | --------------- | -----------------|--------------------------------- |------------------------------------------------------ |------------------- |
 | Poster          | Wednesday 04/10, 5:00 PM - 6:00 PM CT |Bhavesh Patel (presenter) and the SODA team | Club Cambria Room |https://meetings.sparc.science/agenda
 
